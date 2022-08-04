@@ -1,0 +1,19 @@
+date,id_alert_or_ebs,week,province,city,district,faskes,disease_code,disease,data_type,alert_or_rumor,verified,klb,24hr_respond,reporter_unit,reporter_unit_total,correct_report,new_alert,new_rumor,new_reported_case,cummulated_cases,moribidity
+1 August 2022,1,32,Bali,Badung,Kuta,PKM Kuta I,A,Diare Akut,IBS Alert,1,1,0,1,15,16,16,2,1,10,210,0.001
+1 August 2022,2,32,Bali,Badung,Kuta,PKM Kuta I,B,Malaria Konfirmasi,IBS Alert,9,1,1,1,15,16,16,2,1,10,210,0.002
+1 August 2022,3,32,Bali,Badung,Kuta,PKM Kuta I,C,Tersangka Demam Dengue,IBS Alert,4,1,0,1,15,16,16,2,1,10,210,0.003
+2 August 2022,4,32,Bali,Badung,Kuta,PKM Kuta I,A,Diare Akut,IBS Alert,7,0,0,1,15,16,16,2,1,10,210,0.004
+2 August 2022,5,32,Bali,Badung,Kuta,PKM Kuta I,B,Malaria Konfirmasi,IBS Alert,3,0,1,1,15,16,16,2,1,10,210,0.005
+2 August 2022,6,32,Bali,Badung,Kuta,PKM Kuta I,C,Tersangka Demam Dengue,IBS Alert,1,1,0,0,15,16,16,2,1,10,210,0.006
+3 August 2022,7,32,Bali,Badung,Kuta,PKM Kuta I,A,Diare Akut,IBS Alert,5,1,1,0,15,16,16,2,1,10,210,0.007
+3 August 2022,8,32,Bali,Badung,Kuta,PKM Kuta I,B,Malaria Konfirmasi,IBS Alert,5,1,0,0,15,16,16,2,1,10,210,0.008
+3 August 2022,9,32,Bali,Badung,Kuta,PKM Kuta I,C,Tersangka Demam Dengue,IBS Alert,2,1,0,1,15,16,16,2,1,10,210,0.009
+1 August 2022,21,32,Bali,Badung,Kuta,PKM Kuta I,A,Diare Akut,EBS,7,0,1,1,15,16,16,2,1,10,210,0.010
+1 August 2022,22,32,Bali,Badung,Kuta,PKM Kuta I,B,Malaria Konfirmasi,EBS,4,1,1,1,15,16,16,2,1,10,210,0.011
+1 August 2022,23,32,Bali,Badung,Kuta,PKM Kuta I,C,Tersangka Demam Dengue,EBS,6,1,0,0,15,16,16,2,1,10,210,0.012
+2 August 2022,24,32,Bali,Badung,Kuta,PKM Kuta I,A,Diare Akut,EBS,6,1,0,0,15,16,16,2,1,10,210,0.013
+2 August 2022,25,32,Bali,Badung,Kuta,PKM Kuta I,B,Malaria Konfirmasi,EBS,9,1,0,0,15,16,16,2,1,10,210,0.014
+2 August 2022,26,32,Bali,Badung,Kuta,PKM Kuta I,C,Tersangka Demam Dengue,EBS,5,0,0,1,15,16,16,2,1,10,210,0.015
+3 August 2022,27,32,Bali,Badung,Kuta,PKM Kuta I,A,Diare Akut,EBS,5,0,1,0,15,16,16,2,1,10,210,0.016
+3 August 2022,28,32,Bali,Badung,Kuta,PKM Kuta I,B,Malaria Konfirmasi,EBS,7,0,1,1,15,16,16,2,1,10,210,0.017
+3 August 2022,29,32,Bali,Badung,Kuta,PKM Kuta I,C,Tersangka Demam Dengue,EBS,6,0,1,1,15,16,16,2,1,10,210,0.018
